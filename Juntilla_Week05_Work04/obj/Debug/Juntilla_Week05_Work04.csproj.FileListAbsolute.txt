@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Juntilla_Week05_Work04\bin\Debug\Juntilla_Week05_Work04.exe.config
+C:\Users\User\source\repos\Juntilla_Week05_Work04\bin\Debug\Juntilla_Week05_Work04.exe
+C:\Users\User\source\repos\Juntilla_Week05_Work04\bin\Debug\Juntilla_Week05_Work04.pdb
+C:\Users\User\source\repos\Juntilla_Week05_Work04\obj\Debug\Juntilla_Week05_Work04.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Juntilla_Week05_Work04\obj\Debug\Juntilla_Week05_Work04.Form1.resources
+C:\Users\User\source\repos\Juntilla_Week05_Work04\obj\Debug\Juntilla_Week05_Work04.ProductForm.resources
+C:\Users\User\source\repos\Juntilla_Week05_Work04\obj\Debug\Juntilla_Week05_Work04.Properties.Resources.resources
+C:\Users\User\source\repos\Juntilla_Week05_Work04\obj\Debug\Juntilla_Week05_Work04.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Juntilla_Week05_Work04\obj\Debug\Juntilla_Week05_Work04.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Juntilla_Week05_Work04\obj\Debug\Juntilla_Week05_Work04.exe
+C:\Users\User\source\repos\Juntilla_Week05_Work04\obj\Debug\Juntilla_Week05_Work04.pdb
+C:\Users\User\Desktop\Juntilla_Week05_Work04.exe.config
+C:\Users\User\Desktop\Juntilla_Week05_Work04.exe
+C:\Users\User\Desktop\Juntilla_Week05_Work04.pdb
+C:\Users\User\source\repos\Juntilla_Week05_Work04\obj\Debug\Juntilla_Week05_Work04.exe.config
+C:\Users\User\source\repos\Juntilla_Week05_Work04\obj\Debug\Juntilla_Week05_Work04.List.resources
